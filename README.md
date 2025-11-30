@@ -1,2 +1,2 @@
 # my-bio-portfolio
-i created a bio portfolio visit my website=https://mybiopotfolio.netlify.app/
+My personal portfolio website showcasing my web development projects and skills. Live Link: https://mybiopotfolio.netlify.app/
